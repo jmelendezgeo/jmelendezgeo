@@ -1,15 +1,9 @@
 ## Hi there 👋
 
-<!--
-**jmelendezgeo/jmelendezgeo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
 - 🔭 I’m currently working on Retail - Hard Discount industry
 - 🌱 I’m currently improving my machine learning skills 
 - 💬 Ask me about Business Intelligence, Data Science, Retail, Data-driven culture
 - ⚡ Fun fact: Geophysical Engineer in the world of business and data sciences
--->
 
 # Portafolio de Proyectos - jmelendezgeo
 ### Explorando Data & Analytics
