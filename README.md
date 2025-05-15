@@ -30,13 +30,16 @@ Proyectos enfocados en:
 
 Explora algunos de mis proyectos clave aquí:
 
+En construccion
+
+<!---
 * **[Nombre del Proyecto 1]:** [Breve descripción - 1 frase]
     * Tecnologías:
 
 * **[Nombre del Proyecto 2]:** [Breve descripción - 1 frase]
 
 * **[Nombre del Proyecto 3]:** [Breve descripción - 1 frase]
-
+-->
 ---
 
 ## Habilidades Técnicas
