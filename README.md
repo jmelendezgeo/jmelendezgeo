@@ -1,12 +1,6 @@
-## Hi there 👋
-
-- 🔭 I’m currently working on Retail - Hard Discount industry
-- 🌱 I’m currently improving my machine learning skills 
-- 💬 Ask me about Business Intelligence, Data Science, Retail, Data-driven culture
-- ⚡ Fun fact: Geophysical Engineer in the world of business and data sciences
-
 # Portafolio de Proyectos - jmelendezgeo
-### Explorando Data & Analytics
+
+## Explorando Data & Analytics
 
 ---
 
@@ -15,6 +9,12 @@ Profesional de **Data & Analytics** con experiencia construyendo soluciones anal
 Este repositorio presenta **proyectos personales** enfocados en **Business Intelligence, Data Engineering y Data Science**, con el objetivo de aplicar mi experiencia en nuevos desafíos y aprendizaje de nuevas tecnologías.
 
 ---
+
+- 🔭 I’m currently working on Retail - Hard Discount industry
+- 🌱 I’m currently improving my machine learning skills 
+- 💬 Ask me about Business Intelligence, Data Science, Retail, Data-driven culture
+- ⚡ Fun fact: Geophysical Engineer in the world of business and data sciences
+
 
 ## Áreas Clave
 
