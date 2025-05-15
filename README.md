@@ -5,12 +5,71 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 🔭 I’m currently working on Retail - Hard Discount industry
+- 🌱 I’m currently improving my machine learning skills 
+- 💬 Ask me about Business Intelligence, Data Science, Retail, Data-driven culture
+- ⚡ Fun fact: Geophysical Engineer in the world of business and data sciences
 -->
+
+# Portafolio de Proyectos - jmelendezgeo
+### Explorando Data & Analytics
+
+---
+
+Profesional de **Data & Analytics** con experiencia construyendo soluciones analíticas y plataformas de datos end-to-end en **Retail** y **Startups**. He liderado equipos y manejo el ciclo completo datos, desde la ingesta hasta la visualización y modelado (Analisis estadisticos y machine learning) .
+
+Este repositorio presenta **proyectos personales** enfocados en **Business Intelligence, Data Engineering y Data Science**, con el objetivo de aplicar mi experiencia en nuevos desafíos y aprendizaje de nuevas tecnologías.
+
+---
+
+## Áreas Clave
+
+Proyectos enfocados en:
+
+* 📊 **Business Intelligence:** Análisis, KPIs, Dashboards y Storytelling con datos.
+* 🛠️ **Data Engineering:** ETL/ELT, Modelado de Datos, Pipelines y Bases de Datos/DW.
+* 📈 **Data Science:** Modelado Predictivo, ML Aplicado, Pronóstico y Optimización.
+
+---
+
+## Proyectos Destacados
+
+Explora algunos de mis proyectos clave aquí:
+
+* **[Nombre del Proyecto 1]:** [Breve descripción - 1 frase]
+    * Tecnologías:
+
+* **[Nombre del Proyecto 2]:** [Breve descripción - 1 frase]
+
+* **[Nombre del Proyecto 3]:** [Breve descripción - 1 frase]
+
+---
+
+## Habilidades Técnicas
+
+* **Lenguajes:** Python, SQL, R.
+* **Bases de Datos/DW:** BigQuery, PostgreSQL, SQL.
+* **ETL/Modelado:** dbt (Data build tool), Dataform, Pandas, Airflow, Docker.
+* **BI/Visualización:** Looker Studio, Metabase, Power BI, Google Sheets.
+* **Cloud:** Google Cloud Platform (GCP).
+* **Conceptos:** Data Modeling, Data Pipelines, Forecasting, ML, EDA, Business Intelligence, Statistics.
+
+---
+
+## Explorar el Portafolio
+
+Cada proyecto está en su propia carpeta `./nombre-del-proyecto` con un `README.md` detallado.
+
+---
+
+## Contacto
+
+Conecta conmigo:
+
+* **LinkedIn:** [https://www.linkedin.com/in/jesusmelendezgeo/]
+* **Email:** [jrmelendez.martin@gmail.com]
+* **Website:** [Notion site]
+
+---
+
+## Licencia??
