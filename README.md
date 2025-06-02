@@ -30,11 +30,12 @@ Proyectos enfocados en:
 
 Explora algunos de mis proyectos clave aquí:
 
-En construccion
+* **[Python ETL - Sales dataset](https://github.com/jmelendezgeo/kaggle-py-etl):** [Este proyecto demuestra un pipeline de ingesta y preprocesamiento de datos, extrayendo un dataset de Kaggle, limpiándolo y persistiendo los resultados en un archivo Parquet local y en MotherDuck, todo automatizado con Makefile y Poetry.]
+    * Tecnologías: pandas, duckdb, pydantic, docker, kaggle, makefile.
+
 
 <!---
-* **[Nombre del Proyecto 1]:** [Breve descripción - 1 frase]
-    * Tecnologías:
+
 
 * **[Nombre del Proyecto 2]:** [Breve descripción - 1 frase]
 
