@@ -32,12 +32,15 @@ Explora algunos de mis proyectos clave aquí:
 
 * **[Python ETL - Sales dataset](https://github.com/jmelendezgeo/kaggle-py-etl):** Este proyecto demuestra un **pipeline de ingesta y preprocesamiento de datos**, extrayendo un dataset de Kaggle, limpiándolo y persistiendo los resultados en un archivo Parquet local y en MotherDuck, todo automatizado con Makefile y Poetry. Aplicando test unitarios con pytest. Utilizando devcontainers para generar ambiente aislado de desarrollo. Empleando variables de entorno y Pydantic para parametrización y mantenibilidad.
     * **Tecnologías:** pandas, duckdb, pydantic,pytest, docker, kaggle, makefile.
+ * **[Sales Intelligence: Modelado Analítico en dbt](https://github.com/jmelendezgeo/dbt-store-analytics):** [Pipeline de **transformación de datos en dbt** para analizar ventas, clientes y productos en un dataset de muestra de Kaggle. Procesa datos desde Parquet con DuckDB en desarrollo y MotherDuck en producción. Sigue una arquitectura escalable (staging, intermediate, marts) y ejecuta automáticamente con Makefile, Poetry y DevContainers, aplicando mejores prácticas de seguridad y validación (dbt test). Genera tablas listas para análisis y Business Intelligence enfocadas en equipos de finanzas y marketing.
+]
+    * **Tecnologías:** dbt, duckdb, docker, makefile, elt, datawarehouse.    
 
 
 <!---
 
 
-* **[Nombre del Proyecto 2]:** [Breve descripción - 1 frase]
+
 
 * **[Nombre del Proyecto 3]:** [Breve descripción - 1 frase]
 -->
