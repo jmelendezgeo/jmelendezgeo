@@ -1,4 +1,6 @@
+```
 # Portafolio de Proyectos - Hi There👋
+
 
 ## Explorando Data & Analytics
 
@@ -66,6 +68,7 @@ Cada proyecto está en su propia carpeta `./nombre-del-proyecto` con un `README.
 ## Contacto
 
 Conecta conmigo:
+```
 
 * **LinkedIn:** [https://www.linkedin.com/in/jesusmelendezgeo/]
 * **Email:** [jrmelendez.martin@gmail.com]
